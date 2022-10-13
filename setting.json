@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://questions.llc",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
