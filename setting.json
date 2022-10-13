@@ -74,10 +74,10 @@
       "data-attribute":[
         {
           "name-attribute":"name",
-          "value-attribute":"viewport"
+          "value-attribute":"google-site-verification"
         },
         {
-          "name-attribute":"google-site-verification",
+          "name-attribute":"content",
           "value-attribute":"5b4uj2v-onhiuKNz1TB0TBKPfhwjZ_LgDKnBWUTuQaU"
         }
       ],
