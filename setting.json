@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Stack Overflow",
+  "author":"Gudir",
   "remove-comment-html":true,
-  "target":"https://questions.llc",
+  "target":"https://stackoverflow.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
